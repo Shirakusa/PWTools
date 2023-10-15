@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectWTools", "PerfectWTools\PerfectWTools.csproj", "{91EA65AB-B008-42D7-BCD8-7DDCCAB8E529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91EA65AB-B008-42D7-BCD8-7DDCCAB8E529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EA65AB-B008-42D7-BCD8-7DDCCAB8E529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EA65AB-B008-42D7-BCD8-7DDCCAB8E529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EA65AB-B008-42D7-BCD8-7DDCCAB8E529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14ABFE77-AE62-4FC6-A0C9-43C739E79C5D}
+	EndGlobalSection
+EndGlobal
